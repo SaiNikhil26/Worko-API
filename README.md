@@ -25,7 +25,7 @@ This API is designed to manage users in a system. It provides endpoints for crea
 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/SaiNikhil26/Worko-API.git
 ```
 
 2. Install the required dependencies
