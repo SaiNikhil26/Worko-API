@@ -18,7 +18,7 @@ This API is designed to manage users in a system. It provides endpoints for crea
 - Node.js
 - npm
 - MongoDB
-- Postman or any other API testing tool
+- Postman or any other API testing software
 
 ### Installation
 
